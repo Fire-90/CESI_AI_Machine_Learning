@@ -1,0 +1,17 @@
+Plan d'action :
+
+Traitement de données : Normalisation
+                        N/A 
+                        Suppression des variables inutiles
+
+Choix des données : Utile et modif des résultats
+
+Choix des modèles : minimum 8 modèles : XGBoost, KNN, SVM, Perceptron, RandomForest, Regression logistique, Réseaux de Neurones
+
+Comparaison des modèles : métriques, matrice de confusion, recall, presicion, F1-score
+
+Evaluation des résultats : Meilleur modèle -> Diagramme de barre, nuage de point, heatmap
+
+Eviter les sous/sur apprentissage : méthodes d'ensembles, vérification croisées, augementer les données, train-test
+
+Dire pk les gens partent :  Varaible la plus pesante
