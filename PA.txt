@@ -15,3 +15,44 @@ Evaluation des résultats : Meilleur modèle -> Diagramme de barre, nuage de poi
 Eviter les sous/sur apprentissage : méthodes d'ensembles, vérification croisées, augementer les données, train-test
 
 Dire pk les gens partent :  Varaible la plus pesante
+
+
+Ethique : Interaction et contrôle humains : les systèmes d’IA doivent donner aux êtres humains les moyens de prendre des décisions éclairées et de faire respecter 
+leurs droits fondamentaux. Parallèlement, des mécanismes de contrôle adéquats doivent être mis en place, ce qui peut être réalisé grâce à des approches impliquant 
+l’humain dans la boucle, l’humain intégré à la boucle et l’humain au commandement.
+
+Robustesse technique et sécurité : les systèmes d’IA doivent être résilients et sécurisés. Ils doivent être sûrs, avec un plan de secours en cas de problème, et précis, 
+fiables et reproductibles. C’est la seule façon de minimiser et de prévenir les dommages involontaires.
+
+Protection de la vie privée et gouvernance des données : outre le respect intégral de la vie privée et la protection des données, des mécanismes de gouvernance des 
+données adéquats doivent également être mis en place, prenant en compte la qualité et l’intégrité des données et garantissant un accès légitime à celles-ci.
+
+Transparence : les données, les systèmes et les modèles économiques de l’IA doivent être transparents. Les mécanismes de traçabilité peuvent y contribuer. 
+De plus, les systèmes d’IA et leurs décisions doivent être expliqués de manière adaptée aux parties prenantes concernées. Les utilisateurs doivent être conscients 
+d’interagir avec un système d’IA et être informés de ses capacités et de ses limites.
+
+Diversité, non-discrimination et équité : tout biais injuste doit être évité, car il peut avoir de multiples conséquences négatives, allant de la marginalisation 
+des groupes vulnérables à l’exacerbation des préjugés et de la discrimination. Afin de promouvoir la diversité, les systèmes d’IA doivent être accessibles à tous, 
+quel que soit le handicap, et impliquer les parties prenantes concernées à chaque étape de leur vie.
+
+Bien-être sociétal et environnemental : les systèmes d’IA doivent profiter à tous les êtres humains, y compris aux générations futures. 
+Il est donc impératif de garantir leur durabilité et leur respect de l’environnement. De plus, ils doivent prendre en compte l’environnement, notamment les autres êtres vivants, 
+et leur impact social et sociétal doit être soigneusement étudié. 
+
+Responsabilité : Des mécanismes doivent être mis en place pour garantir la responsabilité des systèmes d’IA et de leurs résultats. 
+L’auditabilité, qui permet d’évaluer les algorithmes, les données et les processus de conception, joue un rôle essentiel à cet égard, 
+notamment pour les applications critiques. De plus, un recours adéquat et accessible doit être garanti.
+
+Livrable Bibliographie :
+
+Il s'agit d'un document visant à présenter les références académiques et techniques que vous avez utilisées pour orienter votre travail, en indiquant leur pertinence dans la compréhension des concepts abordés. Ce document inclut des sources permettant de justifier vos choix, de valider les méthodes employées et de guider les prises de décision dans le cadre de votre projet. En plus de citer les ouvrages et articles, il est essentiel de souligner les apports de chaque source ainsi que leur impact sur le développement de votre démarche.
+
+Pour organiser votre bibliographie, vous pouvez classer les sources par thématique :
+- Sources méthodologiques et théoriques : références traitant des bases théoriques et des modèles méthodologiques employés.
+- Sources sur les aspects techniques : ouvrages ou articles décrivant les techniques spécifiques utilisées.
+- Sources éthiques et sociétales : ressources relatives aux normes et aux enjeux éthiques dans votre domaine.
+- Sources spécifiques au projet : articles, études de cas ou rapports ayant directement inspiré ou orienté vos choix.
+
+Pour chaque source, veillez à inclure :
+- Le respect des droits d'auteur et des licences de publication.
+- Une brève annotation justifiant l’intégration de chaque source dans votre bibliographie.
